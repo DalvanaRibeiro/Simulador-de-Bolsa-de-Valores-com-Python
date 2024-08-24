@@ -15,3 +15,5 @@ Baseie suas decisões em dados reais para uma simulação mais precisa e realist
 Este projeto é a ferramenta ideal para aprender sobre o mercado de ações, testar estratégias de investimento ou explorar o funcionamento dos mercados financeiros de maneira prática e interativa.
 
 Aproveite a oportunidade para mergulhar no universo financeiro com o Simulador de Bolsa de Valores!
+
+Desenvolvido com 💚 por Dalvana Lopes Ribeiro ;).
